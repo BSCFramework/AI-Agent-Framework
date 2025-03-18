@@ -12,3 +12,8 @@ A modular AI agent framework that allows developers to create custom AI agents. 
    ```bash
    git clone https://github.com/yourusername/AI-Agent-Framework.git
    cd AI-Agent-Framework
+2. Install dependencies:
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
