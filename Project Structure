@@ -1,0 +1,15 @@
+AI-Agent-Framework/
+├── framework/
+│   ├── __init__.py      # Package initialization
+│   ├── base_agent.py    # Base agent class
+│   ├── environment.py   # Environment interface
+│   └── trainer.py       # Trainer
+├── examples/
+│   ├── dqn_cartpole.py  # Example: DQN agent for CartPole
+│   └── simple_agent.py  # Example: Simple rule-based agent
+├── tests/
+│   ├── test_agent.py    # Unit tests
+├── requirements.txt      # Dependency file
+├── README.md            # Project description
+├── CONTRIBUTING.md      # Contribution guidelines
+└── LICENSE              # Open-source license (MIT)
